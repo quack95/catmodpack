@@ -5,6 +5,10 @@ file = "config/ae2/common.json"
 hash = "ee494003f69386e2d71be27c8eeb563d8c078291914a8060ceab06508576320e"
 
 [[files]]
+file = "config/carryon-common.json"
+hash = "cf0c83520964249a4444df6cdd201d8ebdb4c9b17a7f34d655fa882cf7310d65"
+
+[[files]]
 file = "config/create-client.toml"
 hash = "91966f97b6dfed73131b6ff2fe2b5aa1f57c1d0f0857559a3ea7aa5483f72adb"
 
@@ -47,6 +51,16 @@ hash = "0c9015aa5398140bff02d2c2f8f837e5b903ac53ca7c2496afb98e30cf08285b"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "0cbcd58c49decc0ecbccd330fcc8326e3b8769e22e1740e229f09541acf3df7f"
+metafile = true
+
+[[files]]
+file = "mods/carry-on.pw.toml"
+hash = "94fbe9655850d99ed2a950e6b59c9cbfabfc21d859c7920c4a8b21101f5981b7"
+metafile = true
+
+[[files]]
 file = "mods/cicada.pw.toml"
 hash = "9429467855b96d1437d6335f45282625c4af182ec760a876f97270d0f2397f5a"
 metafile = true
@@ -69,6 +83,11 @@ metafile = true
 [[files]]
 file = "mods/do-a-barrel-roll.pw.toml"
 hash = "0f03190fea722093ae6c5c7225d6aad21825be75436887c856015180916dfcf2"
+metafile = true
+
+[[files]]
+file = "mods/do-api.pw.toml"
+hash = "aa1e63de697ec8db39b302c9bd21f78fde021dd0040d9162618c06c552bc0d04"
 metafile = true
 
 [[files]]
@@ -109,6 +128,11 @@ metafile = true
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "a626674fc1092afe5ccc6cbf4856c09119e42395494f1c3862eed2ab17da0221"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-candlelight.pw.toml"
+hash = "58235ed6c97ca3f3486fab657e486993808a0a23cdd94c931c9b102e36a0d408"
 metafile = true
 
 [[files]]
