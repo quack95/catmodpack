@@ -1,0 +1,11 @@
+{
+    "count_libraries": false,
+    "mods_button_style": "replace_realms",
+    "count_hidden_mods": false,
+    "disable_drag_and_drop": true,
+    "update_checker": false,
+    "button_update_badge": false,
+    "hidden_mods": [
+        "fabric-permissions-api"
+    ]
+}

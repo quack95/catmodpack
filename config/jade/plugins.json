@@ -1,0 +1,9 @@
+{
+    "jade": {
+        "registry_name": "ADVANCED_TOOLTIPS"
+    },
+    "create": {
+        "goggles.requires_goggles": true,
+        "goggles": true
+    }
+}

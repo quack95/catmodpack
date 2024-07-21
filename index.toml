@@ -1,6 +1,22 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/create-client.toml"
+hash = "91966f97b6dfed73131b6ff2fe2b5aa1f57c1d0f0857559a3ea7aa5483f72adb"
+
+[[files]]
+file = "config/jade/jade.json"
+hash = "77dabc5a9a32ea8111d71e5b49cb2c9cdb7544c4d29dcbcb16f8dabae8b6b3a9"
+
+[[files]]
+file = "config/jade/plugins.json"
+hash = "91ae4bf30b1ce0656b8f72eb43cddc1b19c65e574428069ffaad315eb7f26320"
+
+[[files]]
+file = "config/modmenu.json"
+hash = "79efae34876ef2a89667dd707e8f82be9ed8254aefb08bc55ef3192943fce24b"
+
+[[files]]
 file = "config/notenoughanimations.json"
 hash = "380bebdf723d9e2a7abc16010562f1ef8fee6645514b5084b4cd1606da1aee33"
 
@@ -18,8 +34,18 @@ hash = "18da38fc422d0395aa2bd96e9f8aa37ea4f1bc409b1818f6330be5784e4deb03"
 metafile = true
 
 [[files]]
+file = "mods/cicada.pw.toml"
+hash = "9429467855b96d1437d6335f45282625c4af182ec760a876f97270d0f2397f5a"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "a89dfcc985612a275975d4823a24fc3dceb244bacb2e8f81bd459283bf1b9fe9"
+metafile = true
+
+[[files]]
+file = "mods/do-a-barrel-roll.pw.toml"
+hash = "0f03190fea722093ae6c5c7225d6aad21825be75436887c856015180916dfcf2"
 metafile = true
 
 [[files]]
@@ -40,6 +66,16 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "39a6a39433b1b104bfafafcd60a8171f866daa2ebefffd64df822d0e69288e3a"
+metafile = true
+
+[[files]]
+file = "mods/jade-addons-fabric.pw.toml"
+hash = "20c84e35ab95d838421f55e96678a5f62ad943492682b7079e08b8681c2b82cb"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "c43375da9a71c4a51f171be02d148cc6e7d22b0b1294fed996d88616b4184aa1"
 metafile = true
 
 [[files]]
@@ -90,6 +126,11 @@ metafile = true
 [[files]]
 file = "mods/visuality.pw.toml"
 hash = "1d0b62685fd74fdd9d8cba3b3f3a85da75423550704646251a39542fce96bcb4"
+metafile = true
+
+[[files]]
+file = "mods/wakes.pw.toml"
+hash = "fab6ac1665f022c0ca72c73ed0974049f5453b8f4f280092b4aa5ac773fed5c2"
 metafile = true
 
 [[files]]
