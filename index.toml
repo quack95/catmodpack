@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/ae2/common.json"
+hash = "ee494003f69386e2d71be27c8eeb563d8c078291914a8060ceab06508576320e"
+
+[[files]]
 file = "config/create-client.toml"
 hash = "91966f97b6dfed73131b6ff2fe2b5aa1f57c1d0f0857559a3ea7aa5483f72adb"
 
@@ -21,6 +25,10 @@ file = "config/notenoughanimations.json"
 hash = "380bebdf723d9e2a7abc16010562f1ef8fee6645514b5084b4cd1606da1aee33"
 
 [[files]]
+file = "config/watut-client.toml"
+hash = "b5d2086bf5f2d4e8550d22fac7543c6cfc76c0ecc235ab5f4668c407e3d809a1"
+
+[[files]]
 file = "config/yosbr/options.txt"
 hash = "93212866913d108aab6abd66b754d7aa8339b3957332f984c8fc44c385e4a3b2"
 
@@ -34,6 +42,11 @@ hash = "18da38fc422d0395aa2bd96e9f8aa37ea4f1bc409b1818f6330be5784e4deb03"
 metafile = true
 
 [[files]]
+file = "mods/ae2.pw.toml"
+hash = "0c9015aa5398140bff02d2c2f8f837e5b903ac53ca7c2496afb98e30cf08285b"
+metafile = true
+
+[[files]]
 file = "mods/cicada.pw.toml"
 hash = "9429467855b96d1437d6335f45282625c4af182ec760a876f97270d0f2397f5a"
 metafile = true
@@ -41,6 +54,16 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "a89dfcc985612a275975d4823a24fc3dceb244bacb2e8f81bd459283bf1b9fe9"
+metafile = true
+
+[[files]]
+file = "mods/coroutil.pw.toml"
+hash = "809ab9c953bf5ca4647570fafbc76bc7f29ada644f9556831c196e26b1822ca3"
+metafile = true
+
+[[files]]
+file = "mods/create-fabric.pw.toml"
+hash = "26394151533372bce2229f31c8df7f65e2deb751cc823f317cd30682381acc8f"
 metafile = true
 
 [[files]]
@@ -66,6 +89,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "39a6a39433b1b104bfafafcd60a8171f866daa2ebefffd64df822d0e69288e3a"
+metafile = true
+
+[[files]]
+file = "mods/indium.pw.toml"
+hash = "31278d67704a56eb32d93c240e4bfd9822e1ab6047ee14d752953dd0c24dca95"
 metafile = true
 
 [[files]]
@@ -131,6 +159,11 @@ metafile = true
 [[files]]
 file = "mods/wakes.pw.toml"
 hash = "fab6ac1665f022c0ca72c73ed0974049f5453b8f4f280092b4aa5ac773fed5c2"
+metafile = true
+
+[[files]]
+file = "mods/what-are-they-up-to.pw.toml"
+hash = "fb317684448237e6abc00d035d2054d57ab00a85303056391bf721e15b2298e0"
 metafile = true
 
 [[files]]
