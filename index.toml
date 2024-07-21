@@ -18,7 +18,7 @@ hash = "91ae4bf30b1ce0656b8f72eb43cddc1b19c65e574428069ffaad315eb7f26320"
 
 [[files]]
 file = "config/modmenu.json"
-hash = "79efae34876ef2a89667dd707e8f82be9ed8254aefb08bc55ef3192943fce24b"
+hash = "d2e141fb252336253e7f5b11251769ac11ce58399bb2c45345f4c3df2dd9aa98"
 
 [[files]]
 file = "config/notenoughanimations.json"

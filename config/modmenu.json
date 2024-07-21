@@ -6,6 +6,8 @@
     "update_checker": false,
     "button_update_badge": false,
     "hidden_mods": [
-        "fabric-permissions-api"
+        "coroutil",
+        "fabric-permissions-api-v0",
+        "watut"
     ]
 }
