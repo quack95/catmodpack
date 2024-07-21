@@ -1,0 +1,10 @@
+version:3465
+darkMojangStudiosBackground:true
+directionalAudio:true
+guiScale:2
+joinedFirstServer:true
+realmsNotifications:false
+renderClouds:false
+skipMultiplayerWarning:true
+syncChunkWrites:false
+tutorialStep:none

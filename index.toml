@@ -5,8 +5,26 @@ file = "config/notenoughanimations.json"
 hash = "380bebdf723d9e2a7abc16010562f1ef8fee6645514b5084b4cd1606da1aee33"
 
 [[files]]
+file = "config/yosbr/options.txt"
+hash = "93212866913d108aab6abd66b754d7aa8339b3957332f984c8fc44c385e4a3b2"
+
+[[files]]
+file = "config/yosbr/server.properties"
+hash = "da7638848231bf0a88c0ebcb800c2473b5fccd1d82d170e2729611400aaf0beb"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "18da38fc422d0395aa2bd96e9f8aa37ea4f1bc409b1818f6330be5784e4deb03"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "a89dfcc985612a275975d4823a24fc3dceb244bacb2e8f81bd459283bf1b9fe9"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "b00063ae4ce84453b6cb813c7aa3fee8083a1dd8d5110325409ea10e75e6c89f"
 metafile = true
 
 [[files]]
@@ -40,6 +58,11 @@ hash = "37976a6d30855b8e6670193cb07f969df75ed89616223daf3b72a20f75dee4d8"
 metafile = true
 
 [[files]]
+file = "mods/modmenu.pw.toml"
+hash = "a4b6c334bc65f3080eb8df84603d123db54812f6c8a8940c03150aafeda1bae5"
+metafile = true
+
+[[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "dfcf0446ce11ef9691761c4a696b7ca8763854d977c5074a56fa266d92aebd86"
 metafile = true
@@ -57,4 +80,19 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "245530bdbb5c4127a1286f3722778d71e478194a8dcee89388c8fd247b4a57da"
+metafile = true
+
+[[files]]
+file = "mods/trinkets.pw.toml"
+hash = "07619668821f2aad9dbd40084ad80f25595d8715a9ef204a4a9629225729a7d9"
+metafile = true
+
+[[files]]
+file = "mods/visuality.pw.toml"
+hash = "1d0b62685fd74fdd9d8cba3b3f3a85da75423550704646251a39542fce96bcb4"
+metafile = true
+
+[[files]]
+file = "mods/yosbr.pw.toml"
+hash = "6f6334f336a876088431df70e2bba6ac52ca2ddeb73a4880ce88d6954b09af00"
 metafile = true
