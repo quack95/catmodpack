@@ -1,0 +1,11 @@
+*.zip
+*.mrpack
+/server
+
+/.git
+/.gitattributes
+/.github
+/.gitignore
+/.packwizignore
+/LICENSE
+/README.md
