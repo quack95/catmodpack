@@ -1,6 +1,15 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/notenoughanimations.json"
+hash = "380bebdf723d9e2a7abc16010562f1ef8fee6645514b5084b4cd1606da1aee33"
+
+[[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "18da38fc422d0395aa2bd96e9f8aa37ea4f1bc409b1818f6330be5784e4deb03"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "9f499eff7ddb9eeab719f19808cbcf41f2b77d06ebf946f157cf7b5f52f64e70"
 metafile = true
@@ -16,6 +25,11 @@ hash = "39a6a39433b1b104bfafafcd60a8171f866daa2ebefffd64df822d0e69288e3a"
 metafile = true
 
 [[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "a626674fc1092afe5ccc6cbf4856c09119e42395494f1c3862eed2ab17da0221"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
 metafile = true
@@ -23,6 +37,21 @@ metafile = true
 [[files]]
 file = "mods/modernfix.pw.toml"
 hash = "37976a6d30855b8e6670193cb07f969df75ed89616223daf3b72a20f75dee4d8"
+metafile = true
+
+[[files]]
+file = "mods/not-enough-animations.pw.toml"
+hash = "dfcf0446ce11ef9691761c4a696b7ca8763854d977c5074a56fa266d92aebd86"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "0f9916dcded3aac68d56113e9617bbe3db5ec9036bd9bba784bc40a961b0c9f0"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "5379b1da9fa50def37ede26e66dd963de3ce6f8576cd60a6b117998e09a5597c"
 metafile = true
 
 [[files]]
