@@ -1,0 +1,13 @@
+name = "Pyrofrost"
+filename = "pyrofrost-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/z4DmLNR1/versions/zKRT073G/pyrofrost-1.0.1.jar"
+hash-format = "sha1"
+hash = "7287b903bc03c339580c43ea90ff46be0e0b1d1b"
+
+[update]
+[update.modrinth]
+mod-id = "z4DmLNR1"
+version = "zKRT073G"
