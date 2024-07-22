@@ -13,6 +13,10 @@ file = "config/create-client.toml"
 hash = "91966f97b6dfed73131b6ff2fe2b5aa1f57c1d0f0857559a3ea7aa5483f72adb"
 
 [[files]]
+file = "config/createaddition-common.toml"
+hash = "e072afd957d0976a71f9643446c1a1a3fb6a20489a6e98607838802d3495e9e8"
+
+[[files]]
 file = "config/jade/jade.json"
 hash = "77dabc5a9a32ea8111d71e5b49cb2c9cdb7544c4d29dcbcb16f8dabae8b6b3a9"
 
@@ -43,6 +47,11 @@ hash = "da7638848231bf0a88c0ebcb800c2473b5fccd1d82d170e2729611400aaf0beb"
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "18da38fc422d0395aa2bd96e9f8aa37ea4f1bc409b1818f6330be5784e4deb03"
+metafile = true
+
+[[files]]
+file = "mods/ae2-emi-crafting.pw.toml"
+hash = "b754342449d8c7d9bcc7cd7f425dd0bd29fb22431529b8238e62e94de412ba04"
 metafile = true
 
 [[files]]
@@ -81,6 +90,11 @@ hash = "26394151533372bce2229f31c8df7f65e2deb751cc823f317cd30682381acc8f"
 metafile = true
 
 [[files]]
+file = "mods/createaddition.pw.toml"
+hash = "d7efd7d686ed6465c3eb2a71a5be177876a774388fbb31804c29f3c55141b8df"
+metafile = true
+
+[[files]]
 file = "mods/do-a-barrel-roll.pw.toml"
 hash = "0f03190fea722093ae6c5c7225d6aad21825be75436887c856015180916dfcf2"
 metafile = true
@@ -98,6 +112,11 @@ metafile = true
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "9f499eff7ddb9eeab719f19808cbcf41f2b77d06ebf946f157cf7b5f52f64e70"
+metafile = true
+
+[[files]]
+file = "mods/extra-mod-integrations.pw.toml"
+hash = "3ae3bffdac2e274dd7ba6feaf76f89572dbf97c025cfa8c798978c089e309620"
 metafile = true
 
 [[files]]
