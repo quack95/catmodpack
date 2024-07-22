@@ -1,5 +1,6 @@
 name = "more-mob-variants"
 filename = "moremobvariants-1.3.0.1+c2me-fix.jar"
+side = "both"
 
 [download]
 url = "https://github.com/amyavi/MobVariants/releases/download/1.3.0.1%2Bfabric%2Bc2me-fix/moremobvariants-1.3.0.1+c2me-fix.jar"

@@ -17,10 +17,6 @@ file = "config/create-client.toml"
 hash = "91966f97b6dfed73131b6ff2fe2b5aa1f57c1d0f0857559a3ea7aa5483f72adb"
 
 [[files]]
-file = "config/createaddition-common.toml"
-hash = "e072afd957d0976a71f9643446c1a1a3fb6a20489a6e98607838802d3495e9e8"
-
-[[files]]
 file = "config/jade/jade.json"
 hash = "77dabc5a9a32ea8111d71e5b49cb2c9cdb7544c4d29dcbcb16f8dabae8b6b3a9"
 
@@ -114,11 +110,6 @@ metafile = true
 [[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "26394151533372bce2229f31c8df7f65e2deb751cc823f317cd30682381acc8f"
-metafile = true
-
-[[files]]
-file = "mods/createaddition.pw.toml"
-hash = "d7efd7d686ed6465c3eb2a71a5be177876a774388fbb31804c29f3c55141b8df"
 metafile = true
 
 [[files]]
@@ -243,7 +234,7 @@ metafile = true
 
 [[files]]
 file = "mods/more-mob-variants.pw.toml"
-hash = "36b870a011142030fcf874ed5a7a14a33cd9b5049097479045ed0b5aff8358cb"
+hash = "959bc62bd9062c1481319029760a11ae04332ce2cc8119f71e21c44e9781bfc8"
 metafile = true
 
 [[files]]
