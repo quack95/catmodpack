@@ -33,6 +33,10 @@ file = "config/notenoughanimations.json"
 hash = "380bebdf723d9e2a7abc16010562f1ef8fee6645514b5084b4cd1606da1aee33"
 
 [[files]]
+file = "config/tectonic.json"
+hash = "78a21385d3fafabed164a94c6ce80784a912203b915255e18e8e1321c712c15d"
+
+[[files]]
 file = "config/watut-client.toml"
 hash = "b5d2086bf5f2d4e8550d22fac7543c6cfc76c0ecc235ab5f4668c407e3d809a1"
 
@@ -196,6 +200,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "245530bdbb5c4127a1286f3722778d71e478194a8dcee89388c8fd247b4a57da"
+metafile = true
+
+[[files]]
+file = "mods/tectonic.pw.toml"
+hash = "cb3ef06015a7f2d1560a8b6579428ae12e8db154d74e6d0c82e1e8f0da53f31b"
 metafile = true
 
 [[files]]
