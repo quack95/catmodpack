@@ -103,6 +103,11 @@ hash = "a89dfcc985612a275975d4823a24fc3dceb244bacb2e8f81bd459283bf1b9fe9"
 metafile = true
 
 [[files]]
+file = "mods/completeconfig.pw.toml"
+hash = "ce71bb4d87f97c84aabeeef207655a10c4e196b699f0ce87f368b3f00bbc3580"
+metafile = true
+
+[[files]]
 file = "mods/coroutil.pw.toml"
 hash = "809ab9c953bf5ca4647570fafbc76bc7f29ada644f9556831c196e26b1822ca3"
 metafile = true
@@ -280,6 +285,11 @@ metafile = true
 [[files]]
 file = "mods/tectonic.pw.toml"
 hash = "cb3ef06015a7f2d1560a8b6579428ae12e8db154d74e6d0c82e1e8f0da53f31b"
+metafile = true
+
+[[files]]
+file = "mods/thermite.pw.toml"
+hash = "c10018d75f93f709f9b4258b41c322a00846fea9e0ea2933603823296c2f4c81"
 metafile = true
 
 [[files]]
