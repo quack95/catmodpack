@@ -242,6 +242,11 @@ hash = "a4b6c334bc65f3080eb8df84603d123db54812f6c8a8940c03150aafeda1bae5"
 metafile = true
 
 [[files]]
+file = "mods/more-mob-variants.pw.toml"
+hash = "36b870a011142030fcf874ed5a7a14a33cd9b5049097479045ed0b5aff8358cb"
+metafile = true
+
+[[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "dfcf0446ce11ef9691761c4a696b7ca8763854d977c5074a56fa266d92aebd86"
 metafile = true
