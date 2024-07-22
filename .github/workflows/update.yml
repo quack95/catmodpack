@@ -1,0 +1,21 @@
+name: Update all mods
+on: 
+  schedule: [{ cron: "34 21 * * *" }]
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions: { contents: write }
+
+    steps: [
+      { uses: actions/checkout@v4 },
+      { uses: actions/setup-go@v5 },
+      { run: 'go install github.com/packwiz/packwiz@latest' },
+      { id: update,
+        run: 'packwiz update --all -y && (git diff --quiet . || echo "changed=true" >> "$GITHUB_OUTPUT")' },
+      { if: steps.update.outputs.changed == 'true',
+        run: 'git config --global user.email "action@github.com" && git config --global user.name "Github Action" && git commit -a -m "chore: update all mods"' },
+      { if: steps.update.outputs.changed == 'true',
+        uses: ad-m/github-push-action@master, with: { github_token: "${{secrets.GITHUB_TOKEN}}", branch: "${{github.ref}}" } },
+    ]
