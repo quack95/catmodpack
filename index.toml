@@ -54,7 +54,7 @@ hash = "da7638848231bf0a88c0ebcb800c2473b5fccd1d82d170e2729611400aaf0beb"
 
 [[files]]
 file = "datapacks/catmodpack/pack.mcmeta"
-hash = "811d58aa822ced0e274747e1bd76d49adf73522aed8688cbb382ea9c70498171"
+hash = "02532639a481fa33e4a4370e596f51fadee208286c1ae42aa8006829bd0cf9b0"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -189,6 +189,16 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "39a6a39433b1b104bfafafcd60a8171f866daa2ebefffd64df822d0e69288e3a"
+metafile = true
+
+[[files]]
+file = "mods/ibo.pw.toml"
+hash = "a59104e11253a32550d051efcf0a9c69c79c4326bab174bce052b38153bc139b"
+metafile = true
+
+[[files]]
+file = "mods/incendium.pw.toml"
+hash = "45cbe5240c7d30d141494ff4cf3683aedfa99e3d12e55e007b6368bd258f7620"
 metafile = true
 
 [[files]]

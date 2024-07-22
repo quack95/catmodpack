@@ -2,5 +2,21 @@
     "pack": {
         "description": "Cat Modpack - Custom data",
         "pack_format": 15
+    },
+    "filter": {
+        "block": [
+            {
+                "namespace": "minecraft",
+                "path": "tags/functions/load.json"
+            },
+            {
+                "namespace": "load",
+                "path": "functions/.*"
+            },
+            {
+                "namespace": "load",
+                "path": "tags/functions/.*"
+            }
+        ]
     }
 }
