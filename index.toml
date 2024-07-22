@@ -17,6 +17,10 @@ file = "config/create-client.toml"
 hash = "91966f97b6dfed73131b6ff2fe2b5aa1f57c1d0f0857559a3ea7aa5483f72adb"
 
 [[files]]
+file = "config/explosiveenhancement.json"
+hash = "e33ad87a6a5e265348f43969a42b2d21d5e64e9638eb02abff4b01258876f387"
+
+[[files]]
 file = "config/jade/jade.json"
 hash = "77dabc5a9a32ea8111d71e5b49cb2c9cdb7544c4d29dcbcb16f8dabae8b6b3a9"
 
@@ -155,6 +159,11 @@ metafile = true
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "9f499eff7ddb9eeab719f19808cbcf41f2b77d06ebf946f157cf7b5f52f64e70"
+metafile = true
+
+[[files]]
+file = "mods/explosive-enhancement.pw.toml"
+hash = "afe4a2446679827ede0d3a0a3ebc5004bffd98142642a65b8e72ee6163334bd5"
 metafile = true
 
 [[files]]
