@@ -6,8 +6,15 @@
     "update_checker": false,
     "button_update_badge": false,
     "hidden_mods": [
+        "botarium",
         "coroutil",
+        "ends_delight",
         "fabric-permissions-api-v0",
+        "mcwbridges",
+        "mcwroofs",
+        "mcwwindows",
+        "resourcefullib",
+        "resourcefulconfig",
         "watut"
     ]
 }
