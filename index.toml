@@ -41,6 +41,10 @@ file = "config/tectonic.json"
 hash = "78a21385d3fafabed164a94c6ce80784a912203b915255e18e8e1321c712c15d"
 
 [[files]]
+file = "config/travelersbackpack.json5"
+hash = "ba73c4273822629152cf04a6c11ed9d2c46576ede158498c6e73f649381a664c"
+
+[[files]]
 file = "config/watut-client.toml"
 hash = "b5d2086bf5f2d4e8550d22fac7543c6cfc76c0ecc235ab5f4668c407e3d809a1"
 
@@ -93,6 +97,11 @@ metafile = true
 [[files]]
 file = "mods/botarium.pw.toml"
 hash = "d4b79652245914a4f376f13a0a11c12b624613be9df788e227572ee7f5281f6c"
+metafile = true
+
+[[files]]
+file = "mods/cardinal-components-api.pw.toml"
+hash = "b3503cb0b7eae56e27e1d7980882795c0b81f4750ec9b140beb996a9d7c0dfb3"
 metafile = true
 
 [[files]]
@@ -328,6 +337,11 @@ metafile = true
 [[files]]
 file = "mods/trash-cans.pw.toml"
 hash = "8236569e1e8aac24dec8b22da3a67cf656260daec478e463dc8c904b18d909bd"
+metafile = true
+
+[[files]]
+file = "mods/travelersbackpack.pw.toml"
+hash = "a0de07d074c2f5d0e72f70a7b066f4d5aa2748179f05ddca2189376651c29464"
 metafile = true
 
 [[files]]
