@@ -127,6 +127,11 @@ hash = "60172c258cc9297e51f7712ff68da42b3f690f59cfb243a4131437d3f75f9c3a"
 metafile = true
 
 [[files]]
+file = "mods/dcwa.pw.toml"
+hash = "e96c71e46932e7060f04e19145977c2ca71686f373273a8fae78f933a37b1b75"
+metafile = true
+
+[[files]]
 file = "mods/do-a-barrel-roll.pw.toml"
 hash = "0f03190fea722093ae6c5c7225d6aad21825be75436887c856015180916dfcf2"
 metafile = true
