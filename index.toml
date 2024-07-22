@@ -45,6 +45,10 @@ file = "config/watut-client.toml"
 hash = "b5d2086bf5f2d4e8550d22fac7543c6cfc76c0ecc235ab5f4668c407e3d809a1"
 
 [[files]]
+file = "config/yosbr/config/expandedstorage.json"
+hash = "c6dbef325285c6ca428fe2f90e4e8e63b0f9e4262a333dd6a260d08831b3eda4"
+
+[[files]]
 file = "config/yosbr/options.txt"
 hash = "93212866913d108aab6abd66b754d7aa8339b3957332f984c8fc44c385e4a3b2"
 
@@ -159,6 +163,11 @@ metafile = true
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "9f499eff7ddb9eeab719f19808cbcf41f2b77d06ebf946f157cf7b5f52f64e70"
+metafile = true
+
+[[files]]
+file = "mods/expanded-storage.pw.toml"
+hash = "34cae8159356aa6257340c0cfa0e4f13df5ed1d9f58eb50e68062a5a4e39de88"
 metafile = true
 
 [[files]]
