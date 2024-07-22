@@ -179,6 +179,11 @@ hash = "b00063ae4ce84453b6cb813c7aa3fee8083a1dd8d5110325409ea10e75e6c89f"
 metafile = true
 
 [[files]]
+file = "mods/enchanted-vertical-slabs.pw.toml"
+hash = "48f422e0435d5a3fc58a03fe9a35369719ad439bdcc6fb6b5c856ea1979eb2ad"
+metafile = true
+
+[[files]]
 file = "mods/ends-delight.pw.toml"
 hash = "6234639ac27a905240cd50c0e73de8665192c972249f36056df0213c766cf87f"
 metafile = true
