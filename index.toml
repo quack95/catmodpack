@@ -165,7 +165,7 @@ metafile = true
 
 [[files]]
 file = "mods/elytra-slot.pw.toml"
-hash = "3760a492d6a0d7a7cd46c0e7b87b9659da2ea37dd73ff87e2507b5f018c5a7af"
+hash = "b45a1fb32ad0ccd32cc4a71820259dfb23d8aa68660f6fff8815f7427122427b"
 metafile = true
 
 [[files]]
