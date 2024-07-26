@@ -185,7 +185,7 @@ metafile = true
 
 [[files]]
 file = "mods/ends-delight.pw.toml"
-hash = "6234639ac27a905240cd50c0e73de8665192c972249f36056df0213c766cf87f"
+hash = "edb868ad7e8bac36029b2a2131251a71fc3e90200333b4bd1840ee90eef6ad56"
 metafile = true
 
 [[files]]
@@ -220,7 +220,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
-hash = "e64cad200dfc6145b9822c7d7c7a89dd040e28bd8e79d4f827c02c9c348b08df"
+hash = "2bd34b05c6028e28476426b00166378845aac5c0cbbcadf72f94d31f7754ab67"
 metafile = true
 
 [[files]]
@@ -320,7 +320,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
-hash = "d812e151028b7231d0e6bbd28a7b03a2b0e912c7052c0565e2f47e740717c298"
+hash = "cd7b16dc449e4795d9bda1a38a20e2a2a835064e92cf47b28a29d03388a43ed5"
 metafile = true
 
 [[files]]
