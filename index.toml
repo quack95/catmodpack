@@ -245,7 +245,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade-addons-fabric.pw.toml"
-hash = "20c84e35ab95d838421f55e96678a5f62ad943492682b7079e08b8681c2b82cb"
+hash = "ac87185553a3dd2d82ef82fe67c9ab2ee80f22c98086083bd0d402dd2eab253d"
 metafile = true
 
 [[files]]
