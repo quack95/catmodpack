@@ -90,7 +90,7 @@ metafile = true
 
 [[files]]
 file = "mods/ae2.pw.toml"
-hash = "f59aa35a3ca7651d0612543820e80972da0b9abf0094ecb414b76da9a8d4c11b"
+hash = "30f6a07aacfc0b9a5038a3e5261f231e81af3b6388cf473c87f978f4e2fb9347"
 metafile = true
 
 [[files]]
@@ -180,7 +180,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchanted-vertical-slabs.pw.toml"
-hash = "48f422e0435d5a3fc58a03fe9a35369719ad439bdcc6fb6b5c856ea1979eb2ad"
+hash = "2e97c6979b1c8645155b843b37692515276366e5dc9f1e70aac63b2868aca1ef"
 metafile = true
 
 [[files]]
@@ -280,7 +280,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-windows.pw.toml"
-hash = "4c3dc1c93ec5be222f504f66c251fbb17a12f1bba04d59b1b34d959ee9d04e30"
+hash = "6d06309c695aac635bb066f004abe5ddee0ba3569133d6ac00d84d7645bb8d3a"
 metafile = true
 
 [[files]]
