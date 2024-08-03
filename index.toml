@@ -245,7 +245,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade-addons-fabric.pw.toml"
-hash = "ac87185553a3dd2d82ef82fe67c9ab2ee80f22c98086083bd0d402dd2eab253d"
+hash = "ccf6d5c394ae08243f852a14e196f5d6311f280d766bef6c03943dd7f653a1fe"
 metafile = true
 
 [[files]]
@@ -375,7 +375,7 @@ metafile = true
 
 [[files]]
 file = "mods/what-are-they-up-to.pw.toml"
-hash = "fb317684448237e6abc00d035d2054d57ab00a85303056391bf721e15b2298e0"
+hash = "14dc763c30fe223d30def02df68758c59c3062b630d4440c74ad75e5dbb15e90"
 metafile = true
 
 [[files]]
