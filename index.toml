@@ -180,7 +180,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchanted-vertical-slabs.pw.toml"
-hash = "2e97c6979b1c8645155b843b37692515276366e5dc9f1e70aac63b2868aca1ef"
+hash = "a4d87002787ae778a0d714f12e4cbf17af778dd986cdba4b8dbadb61b86ee796"
 metafile = true
 
 [[files]]
@@ -375,7 +375,7 @@ metafile = true
 
 [[files]]
 file = "mods/what-are-they-up-to.pw.toml"
-hash = "14dc763c30fe223d30def02df68758c59c3062b630d4440c74ad75e5dbb15e90"
+hash = "d9439d9594d8666f09ac0634ee9bbcf82c430de010896f87e7cd44d17a4391d7"
 metafile = true
 
 [[files]]
