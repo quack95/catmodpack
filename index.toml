@@ -230,7 +230,7 @@ metafile = true
 
 [[files]]
 file = "mods/ibo.pw.toml"
-hash = "d4e083670a8de15989d00cf37bb5542c47c0d8e8e1ea35255b9522a47461b0db"
+hash = "40be0d6d9c9c72a29a65745f8a0df9f54ee943d66e4055cfbc696f2bfad504d4"
 metafile = true
 
 [[files]]

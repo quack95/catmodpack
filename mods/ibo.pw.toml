@@ -1,13 +1,13 @@
 name = "Incendium Biomes Only"
-filename = "ibo-2.0.0+1.19.jar"
+filename = "ibo-2.1.0+fabric+1.19.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/gmUU3UdW/versions/m0szHoNH/ibo-2.0.0%2B1.19.jar"
+url = "https://cdn.modrinth.com/data/gmUU3UdW/versions/2N4CT66b/ibo-2.1.0%2Bfabric%2B1.19.jar"
 hash-format = "sha1"
-hash = "b85053bfabb0fbeb8b84dc8b97ebadc207847dd9"
+hash = "99ea8b731159ec7ed2b5f53d1044c4dde03f6d76"
 
 [update]
 [update.modrinth]
 mod-id = "gmUU3UdW"
-version = "m0szHoNH"
+version = "2N4CT66b"
