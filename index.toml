@@ -180,7 +180,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchanted-vertical-slabs.pw.toml"
-hash = "a4d87002787ae778a0d714f12e4cbf17af778dd986cdba4b8dbadb61b86ee796"
+hash = "5220911f55bb90ae3caa31fe7f7deb14dadc3b2f30b54277890100e37d87b619"
 metafile = true
 
 [[files]]
@@ -250,7 +250,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "c43375da9a71c4a51f171be02d148cc6e7d22b0b1294fed996d88616b4184aa1"
+hash = "579d045f49e582f0df9a460dd5daace0b9e7dbd33a319117c71df65395c28761"
 metafile = true
 
 [[files]]
@@ -285,7 +285,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "45fc3490e6f0111e19aea024fc028e509d5f0d7a0d1cf9789a86f2c48766d30a"
+hash = "6daaec48585f33d86d9234a0e3d27d8c13f46800ca8d7f6c6cb543781152e02e"
 metafile = true
 
 [[files]]
@@ -320,7 +320,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
-hash = "cd7b16dc449e4795d9bda1a38a20e2a2a835064e92cf47b28a29d03388a43ed5"
+hash = "04309568425eb622ffab10178d2fae3543788be54aa427ab640aea0c0dd5a4b9"
 metafile = true
 
 [[files]]
@@ -370,7 +370,7 @@ metafile = true
 
 [[files]]
 file = "mods/wakes.pw.toml"
-hash = "fab6ac1665f022c0ca72c73ed0974049f5453b8f4f280092b4aa5ac773fed5c2"
+hash = "2c27fa315f6a06c0c56b12151417d5b3c2f6f1a551b881ffa3a54f010c63956c"
 metafile = true
 
 [[files]]
